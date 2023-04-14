@@ -10,8 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author ACER
  */
-//
-//  da xong
+// xong
 
 public class Calculator extends javax.swing.JFrame {
 
