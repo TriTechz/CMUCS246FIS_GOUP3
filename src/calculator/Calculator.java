@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  * @author ACER
  */
 //
-//
+
 public class Calculator extends javax.swing.JFrame {
 
     /**
@@ -21,6 +21,7 @@ public class Calculator extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
     }
+    
 
     /**
      * This method is called from within the constructor to initialize the form.
